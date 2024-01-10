@@ -2,7 +2,7 @@
 This is the repo that contains the Python script to analyze the data recorded in my daily summary.
 
 # Background
-During September of 2023, I started tracking what I did and how I felt at the end of each day. I would record a summary of the things I did that day, as well as a rating of my mood and how I felt that day went on a scale of 1 to 5. The intent was to be able to analyze some of this data to see if there was any trends in what made me happy. This script is to help perform that analysis.
+During September of 2023, I started tracking what I did and how I felt at the end of each day. I would record a summary of the things I did that day, as well as a rating of my mood and how I felt that day went on a scale of 1 to 5. The intent was to be able to analyze some of this data to see if there was any trends in what affected my mood. This script is to help perform that analysis.
 
 # How to use it
 The main requirement for being able to run the script is a csv file called summary.csv in the same folder as the python script. The formatting for the csv file is three columns: one with the date, one with the summary, and one with the rating. It should look like this:
