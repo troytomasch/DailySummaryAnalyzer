@@ -66,7 +66,7 @@ def wordScores():
     keys = scores.keys()
     output = []
     for key in keys:
-        if scores[key][1] > frequency:
+        if scores[key][1] >= frequency:
             csvwriter.writerow([key, round(scores[key][0], 2), scores[key][1]])
             output.append([key, round(scores[key][0], 2), scores[key][1]])
 
