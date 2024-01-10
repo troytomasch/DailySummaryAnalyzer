@@ -22,9 +22,9 @@ The commands that you are able to run are as follows:
 
 Besides the word command, commands can be stacked.
 Examples:
-'python analyzer.py best worst'
-'python analyzer.py words months'
-'python analyzer.py gross months best worst words'
+- 'python analyzer.py best worst'
+- 'python analyzer.py words months'
+- 'python analyzer.py gross months best worst words'
 
 # Output.csv
 Some of the commands will output data to a csv file instead of printing it for better readability. If you get a permission error, "PermissionError: [Errno 13] Permission denied: 'output.csv'", try closing output.csv and trying again.
