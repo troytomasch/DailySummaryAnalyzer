@@ -6,7 +6,8 @@ During September of 2023, I started tracking what I did and how I felt at the en
 
 # How to use it
 The main requirement for being able to run the script is a csv file called summary.csv in the same folder as the python script. The formatting for the csv file is three columns: one with the date, one with the summary, and one with the rating. It should look like this:
-![image](https://github.com/troytomasch/DailySummaryAnalyzer/assets/55467325/7041145c-4fcc-46f7-95b7-392c6480c239)
+
+![image](https://github.com/troytomasch/DailySummaryAnalyzer/assets/55467325/b837954b-2ec9-4eb2-86c1-d7593e4c7ab1)
 
 Punctuation doesn't matter and should be removed automatically.
 
